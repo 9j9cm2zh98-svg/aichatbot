@@ -1,6 +1,6 @@
 # Terminal AI Chatbot
 
-## Features
+Features
 
 - Groq Integration
 - Gemini Integration
@@ -8,17 +8,16 @@
 - Automatic Fallback
 - Error Handling
 
-## Installation
+ Installation
 
 npm install
 
-## Run
+ Run
 
 npm start
 
-## Commands
-
-/groq
-/gemini
-/help
-/exit 
+Commands:
+/groq - switch to Groq
+/gemini - switch to Gemini
+/clear - clear screen
+/exit - exit chat
